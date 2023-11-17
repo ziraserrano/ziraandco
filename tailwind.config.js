@@ -11,8 +11,14 @@ export default {
       'maroon': '#75484B',
       'offblack':'#3A353A',
       'white': '#ffffff',
+      'grey': '#808080',
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        'main': ['Shadows Into Light Two', 'cursive'],
+        'body': ['Montserrat', 'sans-serif']
+      }
+    },
   },
   plugins: [],
 }

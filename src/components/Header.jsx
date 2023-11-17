@@ -3,8 +3,8 @@ import React from "react";
 function Header() {
     return(
         <>
-            <div className='p-4 h-18 outline outline-1 flex justify-between text-sm'>
-                <h1>logo</h1>
+            <div className='p-4 h-18 flex justify-between text-sm'>
+                <h1 className="font-main text-2xl">zira & co.</h1>
                 <ul className="flex gap-8">
                     <li>about</li>
                     <li>services</li>
