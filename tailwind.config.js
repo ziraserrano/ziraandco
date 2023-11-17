@@ -10,6 +10,7 @@ export default {
       'dustypink': '#DCC6C6',
       'maroon': '#75484B',
       'offblack':'#3A353A',
+      'white': '#ffffff',
     },
     extend: {},
   },
